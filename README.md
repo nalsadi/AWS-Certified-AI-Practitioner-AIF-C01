@@ -77,7 +77,3 @@ This project is licensed under the MIT License.
 
 Happy Learning! 🎓
 Let’s build the future of AI—one AWS service at a time. 🚀
-
----
-
-Let me know if you want to include your real name, LinkedIn, or the license text as well. Also, replace `yourusername` in the coffee link and badge with your actual Buy Me a Coffee username.
