@@ -1,4 +1,4 @@
-# Notes and Code for the AWS Certified AI Practitioner (AIF-C01) Certification 📚
+# 📚 Notes and Code for the AWS Certified AI Practitioner (AIF-C01) Certification 📚
 
 If you found these resources helpful and would like to support my work, you can Buy Me a Coffee ☕💛
 
@@ -11,7 +11,7 @@ Your support keeps this content updated and helps others learn too. Thank you!
 
 Sure! Here’s a professional, inviting, and complete README.md for your AWS-Certified-AI-Practitioner-AIF-C01 GitHub repository, including a section for notes, sample code, and a “Buy Me a Coffee” link:
 
-# 🧠 AWS Certified AI Practitioner (AIF-C01) Notes & Sample Code
+# AWS Certified AI Practitioner (AIF-C01) Notes & Sample Code
 
 Welcome to the **AWS-Certified-AI-Practitioner-AIF-C01** repository!  
 This repo is dedicated to helping learners prepare for the **AWS Certified AI Practitioner (AIF-C01)** exam. Whether you're just getting started or reviewing for certification, you'll find this repo packed with:
