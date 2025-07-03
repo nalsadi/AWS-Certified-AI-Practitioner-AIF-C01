@@ -8,9 +8,6 @@ If you found these resources helpful and would like to support my work, you can 
 
 Your support keeps this content updated and helps others learn too. Thank you!
 
-
-Sure! Here’s a professional, inviting, and complete README.md for your AWS-Certified-AI-Practitioner-AIF-C01 GitHub repository, including a section for notes, sample code, and a “Buy Me a Coffee” link:
-
 # AWS Certified AI Practitioner (AIF-C01) Notes & Sample Code
 
 Welcome to the **AWS-Certified-AI-Practitioner-AIF-C01** repository!  
