@@ -73,4 +73,3 @@ Feel free to open an issue or submit a pull request!
 This project is licensed under the MIT License.
 
 Happy Learning! 🎓
-Let’s build the future of AI—one AWS service at a time. 🚀
