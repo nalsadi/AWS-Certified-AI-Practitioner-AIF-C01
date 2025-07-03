@@ -1,10 +1,14 @@
 # 📚 Notes and Code for the AWS Certified AI Practitioner (AIF-C01) Certification 📚
 
-If you found these resources helpful and would like to support my work, you can Buy Me a Coffee ☕💛
+If you’ve found these resources valuable and would like to support ongoing and future development, consider:
 
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+### ☕ Buying Me a Coffee  
+<a href="https://www.buymeacoffee.com/nalsadi01p" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me a Coffee" style="height: 60px; width: 217px;" />
 </a>
+
+### ❤️ Sponsoring on GitHub  
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?logo=github&style=for-the-badge)](https://github.com/sponsors/nalsadi)
 
 Your support keeps this content updated and helps others learn too. Thank you!
 
